@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![JeesooHaa's github stats](https://github-readme-stats.vercel.app/api?username=JeesooHaa&count_private=true)
+![JeesooHaa's github stats](https://github-readme-stats.vercel.app/api?username=JeesooHaa&count_private=true&show_icons=true&title_color=0D0D0D&text_color=8C887B&icon_color=BF3604&bg_color=F2F2F2)
 
 <!--
 **JeesooHaa/JeesooHaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
